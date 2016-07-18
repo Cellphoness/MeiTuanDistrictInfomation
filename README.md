@@ -1,5 +1,5 @@
 # MeiTuanDistrictInfomation
-# 低仿美团的地区列表信息列表
+# 低仿美团的地区信息列表
 
 - OC编写
 - ProvincesAndCities.plist存放地区信息
