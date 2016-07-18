@@ -10,6 +10,7 @@
 #import "SearchTextField.h"
 #import "MyIndexView.h"
 #import "IndexViewController.h"
+#import "CircleSearchTableViewController.h"
 
 @interface ViewController () <UITextFieldDelegate, MyIndexViewDelegate>
 
@@ -101,6 +102,13 @@
 }
 
 //搜索栏的响应
+
+-(void)textFieldDidBeginEditing:(UITextField *)textField
+{
+    CircleSearchTableViewController *circleVC = [CircleSearchTableViewController new];
+    [self textFieldShouldReturn:textField];
+    [self.navigationController pushViewController:circleVC animated:YES];
+}
 
 -(BOOL)textFieldShouldReturn:(UITextField *)textField
 {

@@ -7,4 +7,4 @@
 
 ###项目截图
 
-![截图](https://github.com/Cellphoness/MeiTuanDistrictInfomation/raw/master/screenshot.png)
+![截图](https://github.com/Cellphoness/MeiTuanDistrictInfomation/raw/master/MeiTuanDistrictInfomation/screenshot.png)

@@ -30,6 +30,19 @@
 		790FBC1C1D3C7C1D00183619 /* SearchTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC1B1D3C7C1D00183619 /* SearchTextField.m */; settings = {ASSET_TAGS = (); }; };
 		790FBC1F1D3C7C2B00183619 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC1E1D3C7C2B00183619 /* ViewController.m */; settings = {ASSET_TAGS = (); }; };
 		790FBC221D3C7C5800183619 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC211D3C7C5800183619 /* SearchViewController.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC241D3C98F800183619 /* arrayleft.png in Resources */ = {isa = PBXBuildFile; fileRef = 790FBC231D3C98F800183619 /* arrayleft.png */; settings = {ASSET_TAGS = (); }; };
+		790FBC271D3C9A1500183619 /* CircleSearchTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC261D3C9A1500183619 /* CircleSearchTableViewController.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC301D3CA44700183619 /* MeituanBaseClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC2A1D3CA44700183619 /* MeituanBaseClass.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC311D3CA44700183619 /* MeituanData.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC2C1D3CA44700183619 /* MeituanData.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC321D3CA44700183619 /* MeituanServerInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC2F1D3CA44700183619 /* MeituanServerInfo.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC411D3CA49600183619 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC351D3CA49600183619 /* AFHTTPSessionManager.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC421D3CA49600183619 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC381D3CA49600183619 /* AFNetworkReachabilityManager.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC431D3CA49600183619 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC3A1D3CA49600183619 /* AFSecurityPolicy.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC441D3CA49600183619 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC3C1D3CA49600183619 /* AFURLRequestSerialization.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC451D3CA49600183619 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC3E1D3CA49600183619 /* AFURLResponseSerialization.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC461D3CA49600183619 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC401D3CA49600183619 /* AFURLSessionManager.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC491D3CA84200183619 /* HeaderPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 790FBC481D3CA84200183619 /* HeaderPageView.m */; settings = {ASSET_TAGS = (); }; };
+		790FBC4B1D3CA85300183619 /* HeaderPageView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 790FBC4A1D3CA85300183619 /* HeaderPageView.xib */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +81,32 @@
 		790FBC1E1D3C7C2B00183619 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		790FBC201D3C7C5800183619 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
 		790FBC211D3C7C5800183619 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		790FBC231D3C98F800183619 /* arrayleft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrayleft.png; sourceTree = "<group>"; };
+		790FBC251D3C9A1500183619 /* CircleSearchTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircleSearchTableViewController.h; sourceTree = "<group>"; };
+		790FBC261D3C9A1500183619 /* CircleSearchTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircleSearchTableViewController.m; sourceTree = "<group>"; };
+		790FBC291D3CA44700183619 /* MeituanBaseClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeituanBaseClass.h; sourceTree = "<group>"; };
+		790FBC2A1D3CA44700183619 /* MeituanBaseClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeituanBaseClass.m; sourceTree = "<group>"; };
+		790FBC2B1D3CA44700183619 /* MeituanData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeituanData.h; sourceTree = "<group>"; };
+		790FBC2C1D3CA44700183619 /* MeituanData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeituanData.m; sourceTree = "<group>"; };
+		790FBC2D1D3CA44700183619 /* MeituanDataModels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeituanDataModels.h; sourceTree = "<group>"; };
+		790FBC2E1D3CA44700183619 /* MeituanServerInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeituanServerInfo.h; sourceTree = "<group>"; };
+		790FBC2F1D3CA44700183619 /* MeituanServerInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeituanServerInfo.m; sourceTree = "<group>"; };
+		790FBC341D3CA49600183619 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
+		790FBC351D3CA49600183619 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
+		790FBC361D3CA49600183619 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
+		790FBC371D3CA49600183619 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
+		790FBC381D3CA49600183619 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
+		790FBC391D3CA49600183619 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
+		790FBC3A1D3CA49600183619 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
+		790FBC3B1D3CA49600183619 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
+		790FBC3C1D3CA49600183619 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
+		790FBC3D1D3CA49600183619 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
+		790FBC3E1D3CA49600183619 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
+		790FBC3F1D3CA49600183619 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
+		790FBC401D3CA49600183619 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
+		790FBC471D3CA84200183619 /* HeaderPageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderPageView.h; sourceTree = "<group>"; };
+		790FBC481D3CA84200183619 /* HeaderPageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeaderPageView.m; sourceTree = "<group>"; };
+		790FBC4A1D3CA85300183619 /* HeaderPageView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HeaderPageView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +139,7 @@
 		790FBBD61D3C79A800183619 /* MeiTuanDistrictInfomation */ = {
 			isa = PBXGroup;
 			children = (
+				790FBC331D3CA49600183619 /* AFNetworking */,
 				790FBC001D3C7B3E00183619 /* Model */,
 				790FBBFF1D3C7B3700183619 /* Controller */,
 				790FBBFE1D3C7B2900183619 /* View */,
@@ -127,6 +167,7 @@
 		790FBBEE1D3C7AB100183619 /* Image */ = {
 			isa = PBXGroup;
 			children = (
+				790FBC231D3C98F800183619 /* arrayleft.png */,
 				790FBBEF1D3C7AE500183619 /* 00.pic.jpg */,
 				790FBBF01D3C7AE500183619 /* array.png */,
 				790FBBF11D3C7AE500183619 /* down.png */,
@@ -152,6 +193,9 @@
 				790FBC041D3C7BC600183619 /* CityCell.h */,
 				790FBC051D3C7BC600183619 /* CityCell.m */,
 				790FBC061D3C7BC600183619 /* CityCell.xib */,
+				790FBC471D3CA84200183619 /* HeaderPageView.h */,
+				790FBC481D3CA84200183619 /* HeaderPageView.m */,
+				790FBC4A1D3CA85300183619 /* HeaderPageView.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -165,6 +209,8 @@
 				790FBC1E1D3C7C2B00183619 /* ViewController.m */,
 				790FBC0C1D3C7BEA00183619 /* IndexViewController.h */,
 				790FBC0D1D3C7BEA00183619 /* IndexViewController.m */,
+				790FBC251D3C9A1500183619 /* CircleSearchTableViewController.h */,
+				790FBC261D3C9A1500183619 /* CircleSearchTableViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -172,10 +218,45 @@
 		790FBC001D3C7B3E00183619 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				790FBC281D3CA44700183619 /* Meituan */,
 				790FBC091D3C7BD000183619 /* CityModel.h */,
 				790FBC0A1D3C7BD000183619 /* CityModel.m */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		790FBC281D3CA44700183619 /* Meituan */ = {
+			isa = PBXGroup;
+			children = (
+				790FBC291D3CA44700183619 /* MeituanBaseClass.h */,
+				790FBC2A1D3CA44700183619 /* MeituanBaseClass.m */,
+				790FBC2B1D3CA44700183619 /* MeituanData.h */,
+				790FBC2C1D3CA44700183619 /* MeituanData.m */,
+				790FBC2D1D3CA44700183619 /* MeituanDataModels.h */,
+				790FBC2E1D3CA44700183619 /* MeituanServerInfo.h */,
+				790FBC2F1D3CA44700183619 /* MeituanServerInfo.m */,
+			);
+			path = Meituan;
+			sourceTree = "<group>";
+		};
+		790FBC331D3CA49600183619 /* AFNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				790FBC341D3CA49600183619 /* AFHTTPSessionManager.h */,
+				790FBC351D3CA49600183619 /* AFHTTPSessionManager.m */,
+				790FBC361D3CA49600183619 /* AFNetworking.h */,
+				790FBC371D3CA49600183619 /* AFNetworkReachabilityManager.h */,
+				790FBC381D3CA49600183619 /* AFNetworkReachabilityManager.m */,
+				790FBC391D3CA49600183619 /* AFSecurityPolicy.h */,
+				790FBC3A1D3CA49600183619 /* AFSecurityPolicy.m */,
+				790FBC3B1D3CA49600183619 /* AFURLRequestSerialization.h */,
+				790FBC3C1D3CA49600183619 /* AFURLRequestSerialization.m */,
+				790FBC3D1D3CA49600183619 /* AFURLResponseSerialization.h */,
+				790FBC3E1D3CA49600183619 /* AFURLResponseSerialization.m */,
+				790FBC3F1D3CA49600183619 /* AFURLSessionManager.h */,
+				790FBC401D3CA49600183619 /* AFURLSessionManager.m */,
+			);
+			path = AFNetworking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,6 +322,8 @@
 				790FBC081D3C7BC600183619 /* CityCell.xib in Resources */,
 				790FBBE41D3C79A800183619 /* Assets.xcassets in Resources */,
 				790FBBFA1D3C7AE500183619 /* search.png in Resources */,
+				790FBC4B1D3CA85300183619 /* HeaderPageView.xib in Resources */,
+				790FBC241D3C98F800183619 /* arrayleft.png in Resources */,
 				790FBBE21D3C79A800183619 /* Main.storyboard in Resources */,
 				790FBBF61D3C7AE500183619 /* 00.pic.jpg in Resources */,
 				790FBBFB1D3C7AE500183619 /* tixing.png in Resources */,
@@ -260,12 +343,23 @@
 				790FBC111D3C7BF200183619 /* MyIndexView.m in Sources */,
 				790FBC191D3C7C1600183619 /* TableCityCell.m in Sources */,
 				790FBBDC1D3C79A800183619 /* AppDelegate.m in Sources */,
+				790FBC461D3CA49600183619 /* AFURLSessionManager.m in Sources */,
+				790FBC311D3CA44700183619 /* MeituanData.m in Sources */,
 				790FBC071D3C7BC600183619 /* CityCell.m in Sources */,
 				790FBC1F1D3C7C2B00183619 /* ViewController.m in Sources */,
 				790FBBD91D3C79A800183619 /* main.m in Sources */,
+				790FBC411D3CA49600183619 /* AFHTTPSessionManager.m in Sources */,
+				790FBC321D3CA44700183619 /* MeituanServerInfo.m in Sources */,
 				790FBC181D3C7C1600183619 /* SearchCell.m in Sources */,
+				790FBC431D3CA49600183619 /* AFSecurityPolicy.m in Sources */,
 				790FBC0B1D3C7BD000183619 /* CityModel.m in Sources */,
+				790FBC441D3CA49600183619 /* AFURLRequestSerialization.m in Sources */,
+				790FBC491D3CA84200183619 /* HeaderPageView.m in Sources */,
+				790FBC421D3CA49600183619 /* AFNetworkReachabilityManager.m in Sources */,
+				790FBC451D3CA49600183619 /* AFURLResponseSerialization.m in Sources */,
+				790FBC301D3CA44700183619 /* MeituanBaseClass.m in Sources */,
 				790FBC221D3C7C5800183619 /* SearchViewController.m in Sources */,
+				790FBC271D3C9A1500183619 /* CircleSearchTableViewController.m in Sources */,
 				790FBC0E1D3C7BEA00183619 /* IndexViewController.m in Sources */,
 				790FBC1C1D3C7C1D00183619 /* SearchTextField.m in Sources */,
 			);
@@ -416,6 +510,7 @@
 				790FBBED1D3C79A800183619 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
